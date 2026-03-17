@@ -1,5 +1,5 @@
 # [Ryan Camillo]
-> Full Stack Developer, Especialista Mobile, Cientista de data]
+> Full Stack Developer, Especialista Mobile, Cientista de data
 
 ---
 
