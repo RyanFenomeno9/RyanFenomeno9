@@ -1,5 +1,5 @@
 # [Ryan Camillo]
-> [Seu Cargo: ex. Full Stack Developer | Mobile Specialist | Data Scientist]
+> Full Stack Developer, Especialista Mobile, Cientista de data]
 
 ---
 
