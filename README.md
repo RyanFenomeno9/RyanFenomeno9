@@ -1,4 +1,5 @@
-## Hi there 👋
+## Eu sou um cara razoavel que tem proficiencia em programações digitais. Python, HTML, CSS, C++.
+ryan.azevedo@edu.senai.br👋
 
 <!--
 **RyanFenomeno9/RyanFenomeno9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
