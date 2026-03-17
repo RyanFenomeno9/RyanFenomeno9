@@ -4,13 +4,12 @@
 ---
 
 ### 👤 Sobre Mim
-Uma breve e poderosa descrição sobre quem você é, seus anos de experiência e o que você resolve. 
-*Foque em resultados, não apenas em ferramentas.*
+Sou doutor em ciência da computação pela universidade de Harvard.
 
-* 🔭 Atualmente trabalhando em **[Nome do Projeto/Empresa]**
-* 🌱 Estudando profundamente **[Tecnologia X]**
-* 💬 Pergunte-me sobre **[Suas Especialidades]**
-* ⚡ Curiosidade: [Algo interessante ou um hobby profissional]
+* 🔭 Atualmente trabalhando na Tesla
+* 🌱 Estudando profundamente Mecânica quântica
+* 💬 Pergunte-me sobre meus prêmios nobeis.
+* ⚡ Curiosidade: Eu fui o primeiro brasileiro a construir uma galinha robô
 
 ---
 
@@ -25,19 +24,6 @@ Uma breve e poderosa descrição sobre quem você é, seus anos de experiência 
 
 ---
 
-### 🚀 Projetos em Destaque
-
-#### 📌 [Nome do Projeto 1]
-> Descrição concisa do problema que o projeto resolve e o impacto gerado.
-* **Tech Stack:** `Next.js`, `Prisma`, `PostgreSQL`
-* [🔗 Ver Repositório] | [🌐 Live Demo]
-
-#### 📌 [Nome do Projeto 2]
-> Descrição concisa focada em performance ou arquitetura.
-* **Tech Stack:** `Python`, `TensorFlow`, `Docker`
-* [🔗 Ver Repositório]
-
----
 
 ### 📊 Estatísticas do GitHub
 
