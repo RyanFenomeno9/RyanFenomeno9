@@ -9,7 +9,7 @@ Markdown
 # 🦔 Gotta Go Fast! | Bem-vindo ao meu perfil
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3Z6YmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29yJmN0PWc/LMQgs60HFzAfdKHSYG/giphy.gif" width="300">
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3Z6YmR6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZ29yJmN0PWc/LMQgs60HFzAfdKHSYG/giphy.gif" width="300"](https://www.google.com/imgres?q=sonic%20shitpost&imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100067224882546&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fsonicchaosposting%2F&docid=JeIdrTcEDh8AVM&tbnid=ysAuduE28JP0EM&vet=12ahUKEwie_OGN9aaTAxU6LbkGHbepMugQnPAOegQIGxAB..i&w=543&h=543&hcb=2&ved=2ahUKEwie_OGN9aaTAxU6LbkGHbepMugQnPAOegQIGxAB)>
 </p>
 
 ## 🏁 Act 1: Quem sou eu?
